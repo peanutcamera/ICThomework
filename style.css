@@ -1,0 +1,24 @@
+
+.heading {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; }
+.topnav {
+     overflow: hidden;
+     background-color: #EEF7FF;
+     padding: 20px;
+     font-family: 'Courier New', Courier, monospace;
+     text-align: center;
+     
+}
+.topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    font-size: 17 ;
+    padding: 14px 16px;
+
+}
+.topnav a:hover {
+    background-color: navy;
+    color: white;
+}
